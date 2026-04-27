@@ -12,3 +12,8 @@ I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
 Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
+
+
+## Android 上架验证说明
+
+如果你在上架新 App 时需要做开发者验证，可参考：`docs/ANDROID_DEVELOPER_VERIFICATION.md`。
